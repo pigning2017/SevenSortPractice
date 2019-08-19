@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="097a2d07-94d4-4329-9aeb-1bf49edaa47c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForSchoolHomework/src/demo0725/Main9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/java/com/pgn/entity/TWarehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/entity/TInventory.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/entity/TWarehouse.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/test/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/Idea_SSH_inventorymanager_ver2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/java/com/pgn/dao/testdao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/java/com/pgn/entity/TInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/java/com/pgn/entity/TMedicine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/java/com/pgn/entity/TWarehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/java/com/pgn/entity/ViewInventoryMedicine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/resources/entity/TInventory.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/resources/entity/TMedicine.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/resources/entity/TWarehouse.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/resources/entity/ViewInventoryMedicine.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/src/test/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idea_SevenSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/.idea/artifacts/Idea_Struts2_inventorymanager_partStruts2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/Idea_Struts2_inventorymanager_partStruts2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Idea_Struts2_inventorymanager_partStruts2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/.idea/artifacts/Struts2_idea_demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/.idea/libraries/Struts_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/.idea/libraries/gson_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/Struts2_idea_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/src/com/DB/dbDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/src/com/DB/dbconn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/src/com/action/TestAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/src/com/pojo/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/src/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/web/WEB-INF/lib/gson-2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/web/WEB-INF/lib/mysql-connector-java-8.0.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/web/js/jquery-1.6.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/web/js/show.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Struts2_idea_demo/web/show.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/jqureyStudy_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/.idea/libraries/Struts_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/.idea/libraries/Struts_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/src/struts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalExam_20165961_Struts2/src/struts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/dataSources/7c1a5c7d-2c7e-4845-a6c3-868f08fd3136.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/dataSources/7c1a5c7d-2c7e-4845-a6c3-868f08fd3136.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/dataSources/7c1a5c7d-2c7e-4845-a6c3-868f08fd3136/storage_v2/_src_/schema/demo_inventorysystem_ver1.0.QCUp0Q.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/dataSources/7c1a5c7d-2c7e-4845-a6c3-868f08fd3136/storage_v2/_src_/schema/demo_inventorysystem_ver1.0.QCUp0Q.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventorymanager_ver2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/Idea_SSH_InventoryManager ver1.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/java/com/pgn/dao/inventoryDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/java/com/pgn/dao/warehouseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/java/com/pgn/entity/TInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/java/com/pgn/entity/TInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/java/com/pgn/entity/TMedicine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/java/com/pgn/entity/TMedicine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/java/com/pgn/entity/ViewInventoryMedicine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/java/com/pgn/entity/ViewInventoryMedicine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/resources/entity/TMedicine.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/entity/TMedicine.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/resources/entity/ViewInventoryMedicine.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/entity/ViewInventoryMedicine.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idea_SSH_InventoryManager ver1.0/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Idea_SSH_inventoryManager ver1.3/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/.idea/libraries/commons_fileupload_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/.idea/libraries/gson_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/src/com/DB/dbDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/src/com/DB/dbconn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/src/com/action/TestAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/js/jquery-1.6.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/js/show.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/commons-fileupload-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/commons-lang3-3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/freemarker-2.3.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/gson-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/javassist-3.11.0.GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/ognl-3.0.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/struts2-core-2.3.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/struts2-json-plugin.2.3.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/WEB-INF/lib/xwork-core-2.3.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RealStruts2Demo_idea/web/show.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/.idea/artifacts/SSHTest1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/SSHTest1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/src/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/web/WEB-INF/lib/freemarker-2.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/web/WEB-INF/lib/ognl-2.7.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/web/WEB-INF/lib/struts2-core-2.1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/web/WEB-INF/lib/xwork-core-2.1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SSHTest1/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strust2-demo06/.idea/libraries/gson_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strust2-demo06/src/com/action/AjaxAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strust2-demo06/web/WEB-INF/lib/gson-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strust2-demo06/web/WEB-INF/lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_2.3Try/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Struts2_2.3Try/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/.idea/artifacts/Struts2_Trydemo03_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/.idea/libraries/Struts_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/Struts2_Trydemo03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/src/com/action/Testaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/src/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/asm-5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/asm-commons-5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/asm-tree-5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/bsh-2.0b4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/classworlds-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/commons-beanutils-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/commons-digester-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/commons-fileupload-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/commons-io-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/commons-lang-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/commons-lang3-3.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/dwr-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/freemarker-2.3.26-incubating.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/google-collections-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/google-gxp-0.2.4-beta.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/jackson-core-2.9.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/jackson-databind-2.9.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/javassist-3.20.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/jcommander-1.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/juli-6.0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/log4j-api-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/ognl-3.1.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/org.apache.felix.framework-4.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/org.apache.felix.main-4.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/org.apache.felix.shell-1.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/org.apache.felix.shell.tui-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/org.osgi.compendium-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/org.osgi.core-4.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/oval-1.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/plexus-container-default-1.0-alpha-10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/plexus-utils-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/sitemesh-2.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/slf4j-api-1.7.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/snakeyaml-1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/spring-aop-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/spring-beans-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/spring-context-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/spring-core-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/spring-expression-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/spring-test-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/spring-web-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-bean-validation-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-cdi-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-config-browser-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-convention-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-core-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-dwr-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-embeddedjsp-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-gxp-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-jasperreports-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-javatemplates-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-jfreechart-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-json-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-junit-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-osgi-admin-bundle-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-osgi-demo-bundle-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-osgi-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-oval-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-pell-multipart-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-plexus-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-portlet-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-rest-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-sitegraph-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-sitemesh-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-spring-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-testng-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/struts2-tiles-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-api-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-autotag-core-runtime-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-core-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-el-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-freemarker-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-jsp-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-ognl-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-request-api-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-request-freemarker-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-request-jsp-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-request-servlet-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-servlet-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/tiles-template-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/velocity-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/xmlpull-1.1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/xpp3_min-1.1.4c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/lib/xstream-1.4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_Trydemo03/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/.idea/artifacts/Struts2_demo04_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/Struts2_demo04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/src/com/action/testaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/src/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/asm-5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/asm-commons-5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/asm-tree-5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/bsh-2.0b4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/classworlds-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/commons-beanutils-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/commons-digester-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/commons-fileupload-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/commons-io-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/commons-lang-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/commons-lang3-3.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/dwr-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/freemarker-2.3.26-incubating.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/google-collections-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/google-gxp-0.2.4-beta.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/jackson-core-2.9.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/jackson-databind-2.9.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/javassist-3.20.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/jcommander-1.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/juli-6.0.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/log4j-api-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/ognl-3.1.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/org.apache.felix.framework-4.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/org.apache.felix.main-4.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/org.apache.felix.shell-1.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/org.apache.felix.shell.tui-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/org.osgi.compendium-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/org.osgi.core-4.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/oval-1.31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/plexus-container-default-1.0-alpha-10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/plexus-utils-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/sitemesh-2.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/slf4j-api-1.7.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/snakeyaml-1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/spring-aop-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/spring-beans-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/spring-context-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/spring-core-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/spring-expression-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/spring-test-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/spring-web-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-bean-validation-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-cdi-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-config-browser-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-convention-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-core-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-dwr-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-embeddedjsp-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-gxp-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-jasperreports-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-javatemplates-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-jfreechart-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-json-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-junit-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-osgi-admin-bundle-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-osgi-demo-bundle-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-osgi-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-oval-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-pell-multipart-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-plexus-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-portlet-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-rest-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-sitegraph-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-sitemesh-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-spring-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-testng-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/struts2-tiles-plugin-2.5.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-api-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-autotag-core-runtime-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-core-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-el-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-freemarker-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-jsp-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-ognl-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-request-api-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-request-freemarker-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-request-jsp-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-request-servlet-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-servlet-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/tiles-template-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/velocity-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/xmlpull-1.1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/xpp3_min-1.1.4c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/lib/xstream-1.4.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Struts2_demo04/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ClickFunctionTry/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ClickFunctionTry/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ClickFunctionTry/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ClickFunctionTry/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ClickFunctionTry/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ClickFunctionTry/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ajaxTry/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ajaxTry/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ajaxTry/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ajaxTry/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ajaxTry/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/ajaxTry/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/chapter02/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/chapter02/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/chapter02/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/chapter02/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/chapter02/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/chapter02/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab1/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab1/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab1/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab1/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab1/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab_2/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab_2/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab_2/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab_2/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab_2/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/lab_2/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/newstruts/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/newstruts/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/newstruts/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/newstruts/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/newstruts/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/newstruts/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_009_Tags/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_009_Tags/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_009_Tags/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_009_Tags/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_009_Tags/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_009_Tags/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_011_Interceptor/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_011_Interceptor/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_011_Interceptor/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_011_Interceptor/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_011_Interceptor/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_01_011_Interceptor/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_02_001/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_02_001/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_02_001/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_02_001/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_02_001/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_02_001/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_02_002/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_02_002/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_02_002/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/struts2_02_002/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/teststruts/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/teststruts/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/teststruts/org.eclipse.wst.jsdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.projects/teststruts/org.eclipse.wst.jsdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.org.eclipse.webbrowser.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.genuitec.org.eclipse.webbrowser.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1932097744.index" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1932097744.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/1848933790.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/1848933790.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/2792339351.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/2792339351.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/2876337232.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/2876337232.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/4117787460.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/4117787460.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.ui.workbench/workbench.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.ui.workbench/workbench.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.wst.validation/dep.index" beforeDir="false" afterPath="$PROJECT_DIR$/../myeclipseTry/.metadata/.plugins/org.eclipse.wst.validation/dep.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/.idea/artifacts/sshdemo002_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/.idea/libraries/Struts_2_2_5_14_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/lib/commons-fileupload.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/lib/commons-io.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/lib/commons-lang.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/lib/freemarker.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/lib/log4j.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/lib/ognl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/lib/struts2-core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/Goods.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/WEB-INF/classes/com/action/GoodAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/WEB-INF/classes/com/bean/Good.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/WEB-INF/classes/com/dao/DBHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/WEB-INF/classes/com/dao/GoodDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/WEB-INF/classes/com/test/testAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/WEB-INF/classes/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/js/good.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/artifacts/sshdemo002_war_exploded/js/jquery-1.6.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/production/sshdemo002/com/action/GoodAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/production/sshdemo002/com/bean/Good.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/production/sshdemo002/com/dao/DBHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/production/sshdemo002/com/dao/GoodDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/production/sshdemo002/com/test/testAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/out/production/sshdemo002/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/src/com/action/GoodAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/src/com/bean/Good.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/src/com/dao/DBHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/src/com/dao/GoodDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/src/com/test/testAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/src/struts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/sshdemo002.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/web/Goods.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/web/WEB-INF/lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/web/js/good.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sshdemo002/web/js/jquery-1.6.2.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1130224976">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/ApacheSoftwares/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="86" />
+    <option name="width" value="1841" />
+    <option name="height" value="646" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="097a2d07-94d4-4329-9aeb-1bf49edaa47c" name="Default Changelist" comment="" />
+      <created>1566131613820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566131613820</updated>
+      <workItem from="1566131618446" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="599000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="85" y="-8" width="1843" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24957936" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
